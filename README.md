@@ -3,7 +3,7 @@
 <body>
    <head> <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initiail-scale=1.0">
-    <title>Kodluyoruz</title>
+    <title> Kodluyoruz </title>
 </head>
 <header>
     <nav>
@@ -18,7 +18,6 @@
                 <a href="contact.html">Iletisim</a>
             </li>
         </ul>
-
     </nav>
 </header>
 <article>
